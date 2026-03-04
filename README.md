@@ -2,6 +2,8 @@
 
 AuditFlow Nepal is a comprehensive professional audit and Chartered Accountant (CA) firm management platform engineered specifically for the Nepali regulatory and financial landscape. This platform digitizes the complete lifecycle of audit operations—from client onboarding and engagement management to document tracking, billable hour logging, and automated WhatsApp communication.
 
+<img width="2536" height="1394" alt="image" src="https://github.com/user-attachments/assets/548fd3ba-0b8b-4549-b71e-af04f8cb73ab" />
+
 ## Core Philosophy
 
 
